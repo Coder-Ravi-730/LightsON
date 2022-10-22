@@ -4,20 +4,21 @@
 }
 body{
     height: 100vh;
-    /* width: 100vw; */
-    background-color: #cfe1b9;
+    width: auto;
+    background-color: #fec89a;
     display: flex;
     align-items: center;
     justify-content: center;
     
 }
 .container{
-    background-color: #718355;
+    background-color: #ffcdb2;
     height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid rebeccapurple;
+    border: 2px solid rgb(116, 65, 11);
+    flex-wrap: wrap;
 }
 img{
     width: 150px;
